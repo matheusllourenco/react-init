@@ -63,7 +63,7 @@ function ContentRowMovies() {
           </div>
         </div>
     );
-  }
+}
   
-  export default ContentRowMovies;
+export default ContentRowMovies;
   
